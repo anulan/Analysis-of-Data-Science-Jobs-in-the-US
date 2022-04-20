@@ -1,0 +1,17 @@
+,skill,title,amount
+15,VISUALIZATION,Data Scientist,17
+14,VISUALIZATION,Data Engineer,6
+13,VISUALIZATION,Data Analyst,19
+12,SQL,Data Scientist,13
+11,SQL,Data Engineer,5
+10,SQL,Data Analyst,19
+9,SPARK,Data Scientist,2
+8,R,Data Scientist,5
+7,R,Data Engineer,3
+6,R,Data Analyst,3
+5,PYTHON,Data Scientist,9
+4,PYTHON,Data Engineer,6
+3,PYTHON,Data Analyst,10
+2,ML,Data Scientist,24
+1,ML,Data Engineer,10
+0,ML,Data Analyst,19
